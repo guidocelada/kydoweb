@@ -592,13 +592,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: .2rem solid #39b54a;
-    color: #39b54a
+    color: white !important;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
     border: .2rem solid #000;
-    color: #000
+    color: #000 !important;
 }
 
 button::-moz-focus-inner, input::-moz-focus-inner {
